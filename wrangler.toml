@@ -1,0 +1,6 @@
+name = "big-bundle-repro"
+main = "src/index.js"
+compatibility_flags = ["nodejs_compat", "enable_nodejs_fs_module", "experimental"]
+compatibility_date = "2025-03-05"
+workers_dev = true
+

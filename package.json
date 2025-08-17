@@ -1,0 +1,11 @@
+{
+  "name": "cloudflare-playwright-tests",
+  "version": "1.0.0",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "wrangler": "^4.30.0"
+  }
+}
